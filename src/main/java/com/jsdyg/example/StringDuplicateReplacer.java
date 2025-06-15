@@ -42,6 +42,6 @@ public class StringDuplicateReplacer {
 
     public static void main(String[] args) {
         String str = new StringDuplicateReplacer().removeDuplicates("abcccbad");
-        System.out.println(str);
+        System.out.println(str);//d
     }
 }

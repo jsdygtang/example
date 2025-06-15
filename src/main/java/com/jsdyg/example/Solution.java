@@ -47,6 +47,6 @@ public class Solution {
         Solution solution = new Solution();
         String s = "aabcccbbad";
         String s1 = solution.removeDuplicates(s);
-        System.out.println(s1);
+        System.out.println(s1);//d
     }
 }
